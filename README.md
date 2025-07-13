@@ -1,0 +1,2 @@
+# GI-Calc
+Genshin Calculadora
